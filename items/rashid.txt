@@ -1,0 +1,197 @@
+Abyss Hammer;20000
+Albino Plate;1500
+Amber Staff;8000
+Ancient Amulet;200
+Assassin Dagger;20000
+Bandana;150
+Beastslayer Axe;1500
+Beetle Necklace;1500
+Berserker;40000
+Blacksteel Sword;6000
+Blessed Sceptre;40000
+Bone Shield;80
+Bonelord Helmet;7500
+Brutetamer's Staff;1500
+Buckle;7000
+Castle Shield;5000
+Chain Bolter;40000
+Chaos Mace;9000
+Cobra Crown;50000
+Coconut Shoes;500
+Composite Hornbow;25000
+Cranial Basher;30000
+Crocodile Boots;1000
+Crystal Crossbow;35000
+Crystal Mace;12000
+Crystal Necklace;400
+Crystal Ring;250
+Crystal Sword;600
+Crystalline Armor;16000
+Daramian Mace;110
+Daramian Waraxe;1000
+Dark Shield;400
+Death Ring;1000
+Demon Shield;30000
+Demonbone Amulet;32000
+Demonrage Sword;36000
+Devil Helmet;1000
+Diamond Sceptre;3000
+Divine Plate;55000
+Djinn Blade;15000
+Doll;200
+Dragon Scale Mail;40000
+Dragon Slayer;15000
+Dragonbone Staff;3000
+Dreaded Cleaver;10000
+Dwarven Armor;30000
+Earth Blacksteel Sword;6000
+Earth Cranial Basher;30000
+Earth Crystal Mace;12000
+Earth Dragon Slayer;15000
+Earth Headchopper;6000
+Earth Heroic Axe;30000
+Earth Mystic Blade;30000
+Earth Orcish Maul;6000
+Earth Relic Sword;25000
+Earth War Axe;12000
+Elvish Bow;2000
+Emerald Bangle;800
+Energy Blacksteel Sword;6000
+Energy Cranial Basher;30000
+Energy Crystal Mace;12000
+Energy Dragon Slayer;15000
+Energy Headchopper;6000
+Energy Heroic Axe;30000
+Energy Mystic Blade;30000
+Energy Orcish Maul;6000
+Energy Relic Sword;25000
+Energy War Axe;12000
+Epee;8000
+Fiery Blacksteel Sword;6000
+Fiery Cranial Basher;30000
+Fiery Crystal Mace;12000
+Fiery Dragon Slayer;15000
+Fiery Headchopper;6000
+Fiery Heroic Axe;30000
+Fiery Mystic Blade;30000
+Fiery Orcish Maul;6000
+Fiery Relic Sword;25000
+Fiery War Axe;12000
+Flower Dress;1000
+Flower Wreath;500
+Fur Boots;2000
+Furry Club;1000
+Glacier Amulet;1500
+Glacier Kilt;11000
+Glacier Mask;2500
+Glacier Robe;11000
+Glacier Shoes;2500
+Gold Ring;8000
+Golden Armor;20000
+Golden Legs;30000
+Goo Shell;4000
+Griffin Shield;3000
+Guardian Halberd;11000
+Hammer of Wrath;30000
+Headchopper;6000
+Heavy Mace;50000
+Heavy Machete;90
+Heavy Trident;2000
+Helmet of The Lost;2000
+Heroic Axe;30000
+Hibiscus Dress;3000
+Hieroglyph Banner;500
+Horn (Ring);300
+Icy Blacksteel Sword;6000
+Icy Cranial Basher;30000
+Icy Crystal Mace;12000
+Icy Dragon Slayer;15000
+Icy Headchopper;6000
+Icy Heroic Axe;30000
+Icy Mystic Blade;30000
+Icy Orcish Maul;6000
+Icy Relic Sword;25000
+Icy War Axe;12000
+Jade Hammer;25000
+Krimhorn Helmet;200
+Lavos Armor;16000
+Leaf Legs;500
+Leopard Armor;1000
+Leviathan's Amulet;3000
+Light Shovel;300
+Lightning Boots;2500
+Lightning Headband;2500
+Lightning Legs;11000
+Lightning Pendant;1500
+Lightning Robe;11000
+Lunar Staff;5000
+Magic Plate Armor;90000
+Magma Amulet;1500
+Magma Boots;2500
+Magma Coat;11000
+Magma Legs;11000
+Magma Monocle;2500
+Mammoth Fur Cape;6000
+Mammoth Fur Shorts;850
+Mammoth Whopper;300
+Mastermind Shield;50000
+Medusa Shield;9000
+Mercenary Sword;12000
+Model Ship;1000
+Mycological Bow;35000
+Mystic Blade;30000
+Naginata;2000
+Nightmare Blade;35000
+Noble Axe;10000
+Norse Shield;1500
+Onyx Pendant;3500
+Orcish Maul;6000
+Oriental Shoes;15000
+Pair of Iron Fists;4000
+Paladin Armor;15000
+Patched Boots;2000
+Pharaoh Banner;1000
+Pharaoh Sword;23000
+Pirate Boots;3000
+Pirate Hat;1000
+Pirate Knee Breeches;200
+Pirate Shirt;500
+Pirate Voodoo Doll;500
+Platinum Amulet;2500
+Ragnir Helmet;400
+Relic Sword;25000
+Rift Bow;45000
+Rift Crossbow;45000
+Rift Lance;30000
+Rift Shield;50000
+Ring of the Sky;30000
+Royal Axe;40000
+Ruby Necklace;2000
+Ruthless Axe;45000
+Sacred Tree Amulet;3000
+Sapphire Hammer;7000
+Scarab Amulet;200
+Scarab Shield;2000
+Shockwave Amulet;3000
+Silver Brooch;150
+Silver Dagger;500
+Skull Helmet;40000
+Skullcracker Armor;18000
+Spiked Squelcher;5000
+Steel Boots;30000
+Swamplair Armor;16000
+Taurus Mace;500
+Tempest Shield;35000
+Terra Amulet;1500
+Terra Boots;2500
+Terra Hood;2500
+Terra Legs;11000
+Terra Mantle;11000
+The Justice Seeker;40000
+Tortoise Shield;150
+Vile Axe;30000
+Voodoo Doll;400
+War Axe;12000
+War Horn;8000
+Witch Hat;5000
+Wyvern Fang;1500

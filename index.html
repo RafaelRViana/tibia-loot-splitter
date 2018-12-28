@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>4 Col Portfolio - Start Bootstrap Template</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/4-col-portfolio.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="#">Divisor de Loot</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+
+      <!-- Page Heading -->
+      <h1 class="my-4">Page Heading
+        <small>Secondary Text</small>
+      </h1>
+
+      <div class="row">
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <div class="card-body">
+              <h4 class="card-title">
+                <input class="form-control" id="name1" type="text" value="Player #1"></input>
+              </h4>
+             <div class="form-group">
+              <textarea class="form-control" id="player1" style="height: 400px"></textarea>
+            </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <div class="card-body">
+              <h4 class="card-title">
+                <input class="form-control" id="name2" type="text" value="Player #2"></input>
+              </h4>
+             <div class="form-group">
+              <textarea class="form-control" id="player2" style="height: 400px"></textarea>
+            </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <div class="card-body">
+              <h4 class="card-title">
+                <input class="form-control" id="name3" type="text" value="Player #3"></input>
+              </h4>
+             <div class="form-group">
+              <textarea class="form-control" id="player3" style="height: 400px"></textarea>
+            </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <div class="card-body">
+              <h4 class="card-title">
+                <input class="form-control" id="name4" type="text" value="Player #4"></input>
+              </h4>
+             <div class="form-group">
+              <textarea class="form-control" id="player4" style="height: 400px"></textarea>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+
+      <button id="btCalcular" type="button" class="btn btn-primary" style="margin-top:-10px; margin-bottom: 10px;">Calculate</button>
+    </div>
+    <!-- /.container -->
+
+    <!-- Page Content -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <div class="card-body">
+              <h4 class="card-title">
+                <img src="images/Nah'Bob.gif" />
+                <img src="images/Haroun.gif" />
+              </h4>
+             <table class="table table-striped">
+                <thead>
+                   <tr>
+                     <td>Qty</td>
+                     <td>Item</td>
+                     <td>$</td>
+                   </tr>
+                </thead>
+                <tbody id="itensBlue">
+                    
+                </tbody>
+             </table>
+
+             <span><b>Total:</b></span> <span id="totalBlue"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <div class="card-body">
+              <h4 class="card-title">
+                <img src="images/Alesar.gif" />
+                <img src="images/Yaman.gif" />
+              </h4>
+             <table class="table table-striped">
+                <thead>
+                   <tr>
+                     <td>Qty</td>
+                     <td>Item</td>
+                     <td>$</td>
+                   </tr>
+                </thead>
+                <tbody id="itensGreen">
+                    
+                </tbody>
+             </table>
+
+             <span><b>Total:</b></span> <span id="totalGreen"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <div class="card-body">
+              <h4 class="card-title">
+                <img src="images/Rashid.gif" />
+              </h4>
+             <table class="table table-striped">
+                <thead>
+                   <tr>
+                     <td>Qty</td>
+                     <td>Item</td>
+                     <td>$</td>
+                   </tr>
+                </thead>
+                <tbody id="itensRashid">
+                    
+                </tbody>
+             </table>
+
+             <span><b>Total:</b></span> <span id="totalRashid"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6 portfolio-item">
+          <div class="card h-100">
+            <div class="card-body">
+              <h4 class="card-title">
+                <img src="images/Gold_Coin.gif" />
+                Loot Splitter
+              </h4>
+             <textarea class="form-control" id="result" style="height: 400px"></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- /.row -->
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2018</p>
+      </div>
+      <!-- /.container -->
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <script type="text/javascript">
+      String.prototype.format = function() {
+          var args = arguments;
+          args['{'] = '{';
+          args['}'] = '}';
+          return this.replace(
+              /{({|}|-?[0-9]+)}/g,
+              function(item) {
+                  var result = args[item.substring(1, item.length - 1)];
+                  return typeof result == 'undefined' ? '' : result;
+                  }
+              );
+      };
+
+      function formatMoney(n, c, d, t) {
+        var c = isNaN(c = Math.abs(c)) ? 0 : c,
+          d = d == undefined ? "." : d,
+          t = t == undefined ? "," : t,
+          s = n < 0 ? "-" : "",
+          i = String(parseInt(n = Math.abs(Number(n) || 0).toFixed(c))),
+          j = (j = i.length) > 3 ? j % 3 : 0;
+
+        return s + (j ? i.substr(0, j) + t : "") + i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + t) + (c ? d + Math.abs(n - i).toFixed(c).slice(2) : "");
+      };
+
+      //Load items from NPC
+      var rashidItems = {};
+      var blueItems = {};
+      var greenItems = {};
+
+      function loadItemsFromFile(filename, array) {
+        $.ajax({
+          url : filename,
+          dataType: "text",
+          success : function (text) {
+            var lines = text.split('\n');
+            for(var i = 0; i < lines.length;i++){
+              var line = lines[i].split(";");
+              var itemName = line[0].toLowerCase();
+              var itemPrice = line[1];
+              array[itemName] = itemPrice; 
+            }
+          }
+        });
+      }
+      
+      loadItemsFromFile('items/rashid.txt', rashidItems)
+      loadItemsFromFile('items/blue.txt', blueItems)
+      loadItemsFromFile('items/green.txt', greenItems)  
+
+      //Read Looted Items 
+      function readItems(text) {
+          var isLoot = false
+
+          var lines = text.split('\n');
+              for(var i = 0; i < lines.length;i++){
+                  var line = lines[i];
+                  if(isLoot) {
+                    split = line.split("x ")
+                    itemName = split[1]
+                    if(itemName !== undefined) {
+                      if(itemName.startsWith("a") || itemName.startsWith("an")) {
+                        itemName = itemName.replace("a ", "").replace("an ", "").trim()
+                      }
+
+                      loots.push({quantity: parseInt(split[0]), item: itemName})
+                    }
+                  }
+
+                  if(line.includes("Looted items:")) {
+                    isLoot = true
+                  }
+              }
+        }
+
+      //Read Supplies and Loot
+      function readInfo(text, info) {
+        var lines = text.split('\n');
+        for(var i = 0; i < lines.length;i++){
+          var line = lines[i];
+          if(line.includes(info)) {
+            return Number(line.split(info)[1].replace(",", ""))
+          }
+        }
+      }
+
+      //Calcular Loot
+      var loots = [];
+      $("#btCalcular").click(function() {
+          var numPlayers = 0;
+          loots = []; //restart array
+
+          var player1 = $("#player1").val();
+          var player2 = $("#player2").val();
+          var player3 = $("#player3").val();
+          var player4 = $("#player4").val();
+
+          var name1 = $("#name1").val();
+          var name2 = $("#name2").val();
+          var name3 = $("#name3").val();
+          var name4 = $("#name4").val();
+
+          var balance1 = 0.0;
+          var balance2 = 0.0;
+          var balance3 = 0.0;
+          var balance4 = 0.0;
+
+          var supply1 = 0.0;
+          var supply2 = 0.0;
+          var supply3 = 0.0;
+          var supply4 = 0.0;
+
+          var loot1 = 0.0;
+          var loot2 = 0.0;
+          var loot3 = 0.0;
+          var loot4 = 0.0;
+
+          if(player1 !== "") {
+             balance1 = readInfo(player1, "Balance: ");
+             supply1 = readInfo(player1, "Supplies: ");
+             loot1 = readInfo(player1, "Loot: ");
+
+             readItems(player1)
+             numPlayers++;
+          }
+
+          if(player2 !== "") {
+            balance2 = readInfo(player2, "Balance: ");
+            supply2 = readInfo(player2, "Supplies: ");
+            loot2 = readInfo(player2, "Loot: ");
+
+            readItems(player2)
+            numPlayers++;
+          }
+
+          if(player3 !== "") {
+             balance3 = readInfo(player3, "Balance: ");
+             supply3 = readInfo(player3, "Supplies: ");
+             loot3 = readInfo(player3, "Loot: ");
+
+             readItems(player3)
+             numPlayers++;
+          }
+
+          if(player4 !== "") {
+             balance4 = readInfo(player4, "Balance: ");
+             supply4 = readInfo(player4, "Supplies: ");
+             loot4 = readInfo(player4, "Loot: ");
+
+             readItems(player4)
+             numPlayers++;
+          }
+
+          var totalSupply = supply1 + supply2 + supply3 + supply4;
+          var totalLoot = loot1 + loot2 + loot3 + loot4;
+          var totalBalance = totalLoot - totalSupply;
+
+          var profitPerPlayer = totalBalance / numPlayers;
+ 
+          var result = "Total Supply => {0}".format(formatMoney(totalSupply)) + "\n" +
+                       "Total Loot => {0}".format(formatMoney(totalLoot)) + "\n";
+
+          var profitOrWaste = totalBalance < 0 ? "Waste" : "Profit";
+          result +=  "{0} per player: {1}\n\n".format(profitOrWaste, formatMoney(profitPerPlayer));
+
+          if(player1 !== "") {
+            difference = (balance1 + Math.abs(profitPerPlayer));
+            earnOrPay = difference <= 0 ? "earns" : "pays";
+
+            result += "{0} {1} => {2}\n\n".format(name1, earnOrPay, formatMoney(Math.abs(difference)))
+          }
+
+          if(player2 !== "") {
+            difference = (balance2 + Math.abs(profitPerPlayer));
+            earnOrPay = difference <= 0 ? "earns" : "pays";
+
+            result += "{0} {1} => {2}\n\n".format(name2, earnOrPay, formatMoney(Math.abs(difference)))
+          }
+
+          if(player3 !== "") {
+            difference = (balance3 + Math.abs(profitPerPlayer));
+            earnOrPay = difference <= 0 ? "earns" : "pays";
+
+            result += "{0} {1} => {2}\n\n".format(name3, earnOrPay, formatMoney(Math.abs(difference)))
+          }
+
+          if(player4 !== "") {
+            difference = (balance4 + Math.abs(profitPerPlayer));
+            earnOrPay = difference <= 0 ? "earns" : "pays";
+
+            result += "{0} {1} => {2}\n\n".format(name3, earnOrPay, formatMoney(Math.abs(difference)))
+          }
+
+          //Split items per NPC
+          totalBlue = 0;
+          totalRashid = 0;
+          totalGreen = 0;
+          $("#itensBlue").html("");
+          $("#itensRashid").html("");
+          $("#itensGreen").html("");
+
+          for(var i = 0; i < loots.length; i++) {
+            loot = loots[i]
+
+            if(blueItems[loot.item]) {
+              totalBlue += (loot.quantity * blueItems[loot.item]);
+
+              $("#itensBlue").append("<tr>" + 
+                  "<td>" + loot.quantity + "</td>" + 
+                  "<td>" + loot.item + "</td>" + 
+                  "<td>" + (loot.quantity * blueItems[loot.item]) + "</td> </tr>");
+            }
+
+            if(rashidItems[loot.item]) {
+              totalRashid += (loot.quantity * rashidItems[loot.item]);
+
+              $("#itensRashid").append("<tr>" + 
+                  "<td>" + loot.quantity + "</td>" + 
+                  "<td>" + loot.item + "</td>" + 
+                  "<td>" + (loot.quantity * rashidItems[loot.item]) + "</td> </tr>");
+            }
+
+            if(greenItems[loot.item]) {
+              totalGreen += (loot.quantity * greenItems[loot.item]);
+
+              $("#itensGreen").append("<tr>" + 
+                  "<td>" + loot.quantity + "</td>" + 
+                  "<td>" + loot.item + "</td>" + 
+                  "<td>" + (loot.quantity * greenItems[loot.item]) + "</td> </tr>");
+            }
+          }
+          $("#totalBlue").text(totalBlue)
+          $("#totalRashid").text(totalRashid)
+          $("#totalGreen").text(totalGreen)
+
+          $("#result").val(result)
+
+        });
+  
+    </script>
+
+  </body>
+</html>

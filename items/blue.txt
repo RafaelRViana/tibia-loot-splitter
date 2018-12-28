@@ -1,0 +1,58 @@
+Angelic Axe;5000
+Blue Robe;10000
+Bonelord Shield;1200
+Boots of Haste;30000
+Broadsword;500
+Butcher's Axe;18000
+Crown Armor;12000
+Crown Helmet;2500
+Crown Legs;12000
+Crown Shield;8000
+Crusader Helmet;6000
+Dragon Lance;9000
+Dragon Shield;4000
+Earth Spike Sword;1000
+Earth War Hammer;1200
+Energy Spike Sword;1000
+Energy War Hammer;1200
+Fiery Spike Sword;1000
+Fiery War Hammer;1200
+Fire Axe;8000
+Fire Sword;4000
+Glorious Axe;3000
+Guardian Shield;2000
+Ice Rapier;1000
+Icy Spike Sword;1000
+Icy War Hammer;1200
+Noble Armor;900
+Obsidian Lance;500
+Phoenix Shield;16000
+Queen's Sceptre;20000
+Royal Helmet;30000
+Shadow Sceptre;10000
+Spike Sword;1000
+Thaian Sword;16000
+War Hammer;1200
+Axe Ring;100
+Bronze Amulet;50
+Club Ring;100
+Elven Amulet;100
+Garlic Necklace;50
+Life Crystal;50
+Magic Light Wand;35
+Mind Stone;100
+Orb;750
+Power Ring;50
+Stealth Ring;200
+Stone Skin Amulet;500
+Sword Ring;100
+Wand of Cosmic Energy;2000
+Wand of Decay;1000
+Wand of Defiance;6500
+Wand of Draconia;1500
+Wand of Dragonbreath;200
+Wand of Everblazing;6000
+Wand of Inferno;3000
+Wand of Starstorm;3600
+Wand of Voodoo;4400
+Wand of Vortex 100

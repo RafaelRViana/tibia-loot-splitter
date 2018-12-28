@@ -1,0 +1,50 @@
+Ancient Shield;900
+Black Shield;800
+Bonebreaker;10000
+Dark Armor;400
+Dark Helmet;250
+Dragon Hammer;2000
+Dreaded Cleaver;15000
+Earth Knight Axe;2000
+Energy Knight Axe;2000
+Fiery Knight Axe;2000
+Giant Sword;17000
+Haunted Blade;8000
+Icy Knight Axe;2000
+Knight Armor;5000
+Knight Axe;2000
+Knight Legs;5000
+Mystic Turban;150
+Onyx Flail;22000
+Ornamented Axe;20000
+Poison Dagger;50
+Scimitar;150
+Serpent Sword;900
+Skull Staff;6000
+Strange Helmet;500
+Titan Axe;4000
+Tower Shield;8000
+Vampire Shield;15000
+Warrior Helmet;5000
+Ankh;100
+Dragon Necklace;100
+Dwarven Ring;100
+Energy Ring;100
+Glacial Rod;6500
+Hailstorm Rod;3000
+Life Ring;50
+Might Ring;250
+Moonlight Rod;200
+Muck Rod;6000
+Mysterious Fetish;50
+Necrotic Rod;1000
+Northwind Rod;1500
+Protection Amulet;100
+Ring of Healing;100
+Strange Talisman;30
+Silver Amulet;50
+Snakebite Rod;100
+Springsprout Rod;3600
+Terra Rod;2000
+Time Ring;100
+Underworld Rod;4400
